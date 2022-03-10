@@ -1,0 +1,30 @@
+.mainpage_root section {
+  margin-bottom: 10px;
+  height: 30px;
+}
+
+.mainpage_root section input {
+  width: 200px;
+  height: 100%;
+}
+
+.mainpage_root section select {
+  height: 100%;
+  margin-left: 10px;
+}
+
+.mainpage_root section button {
+  margin-left: 10px;
+  width: 100px;
+  height: 120%;
+  cursor: pointer;
+}
+
+.mainpage_root span:first-child {
+  color: red;
+  font-size: 12px;
+}
+
+span {
+    margin-left: 10px;
+}
